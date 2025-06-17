@@ -1,10 +1,10 @@
 ---
 title: "Mengdi Huai"
-layout: page
+layout: post
 author: Mengdi Huai
 image:
   thumbnail: /images/mentors/mengdi_huai.png
-  path: /mentors/images/fragment_based_methods.png
+  path: /mentors/images/mengdi_banner.png
 ---
 
 # About Me
